@@ -1,6 +1,6 @@
 ## About
 
-I am a **_INSERT ROLE HERE_** at Hack4Impact!
+I am a **Academy Member** at Hack4Impact!
 
 ## My Profile
 
@@ -9,13 +9,13 @@ I am a **_INSERT ROLE HERE_** at Hack4Impact!
     <td align="center">
       <a href="tacobell.com">
         <img
-          src="https://data.whicdn.com/images/317675372/original.jpg"
+          src="spotifyclassical.JPG"
           width="500px"
         />
         <br />
-        <b><i>INSERT NAME</i></b>
+        <b><i>Jessica Singh</i></b>
         <br />
-        <sub><b><i>INSERT ROLE</i></b></sub>
+        <sub><b><i>Academy Member</i></b></sub>
       </a>
     </td>
     </tr>
